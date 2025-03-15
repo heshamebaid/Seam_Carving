@@ -18,10 +18,10 @@ This project implements **Seam Carving**, an advanced image resizing technique t
 - Visualization shows removed seams in **red**.
 
 📌 **Seams Visualization:**  
-![Seams Both](Examples/seams_Height&Width.jpg)  
+![Seams Both](seams_Height&Width.jpg)  
 
 📌 **Final Resized Image:**  
-![Resized Both](Examples/resized_Height&Width.jpg)  
+![Resized Both](resized_Height&Width.jpg)  
 
 ---
 
@@ -30,10 +30,10 @@ This project implements **Seam Carving**, an advanced image resizing technique t
 - Seam carving removes **horizontal seams**.
 
 📌 **Seams Visualization:**  
-![Seams Height](Examples/seams_Height.jpg)  
+![Seams Height](seams_Height.jpg)  
 
 📌 **Final Resized Image:**  
-![Resized Height](Examples/resized_Height.jpg)  
+![Resized Height](resized_Height.jpg)  
 
 ---
 
@@ -42,9 +42,9 @@ This project implements **Seam Carving**, an advanced image resizing technique t
 - Seam carving removes **vertical seams**.
 
 📌 **Seams Visualization:**  
-![Seams Width](Examples/seams_width.jpg)  
+![Seams Width](seams_width.jpg)  
 
 📌 **Final Resized Image:**  
-![Resized Width](Examples/resized_Width.jpg)  
+![Resized Width](resized_Width.jpg)  
 
 
