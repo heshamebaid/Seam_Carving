@@ -18,10 +18,10 @@ This project implements **Seam Carving**, an advanced image resizing technique t
 - Visualization shows removed seams in **red**.
 
 📌 **Seams Visualization:**  
-![Seams Both](examples/seams_Height&Width.jpg)  
+![Seams Both](Examples/seams_Height&Width.jpg)  
 
 📌 **Final Resized Image:**  
-![Resized Both](examples/resized_Height&Width.jpg)  
+![Resized Both](Examples/resized_Height&Width.jpg)  
 
 ---
 
@@ -30,10 +30,10 @@ This project implements **Seam Carving**, an advanced image resizing technique t
 - Seam carving removes **horizontal seams**.
 
 📌 **Seams Visualization:**  
-![Seams Height](examples/seams_Height.jpg)  
+![Seams Height](Examples/seams_Height.jpg)  
 
 📌 **Final Resized Image:**  
-![Resized Height](examples/resized_Height.jpg)  
+![Resized Height](Examples/resized_Height.jpg)  
 
 ---
 
@@ -42,22 +42,9 @@ This project implements **Seam Carving**, an advanced image resizing technique t
 - Seam carving removes **vertical seams**.
 
 📌 **Seams Visualization:**  
-![Seams Width](examples/seams_width.jpg)  
+![Seams Width](Examples/seams_width.jpg)  
 
 📌 **Final Resized Image:**  
-![Resized Width](examples/resized_Width.jpg)  
+![Resized Width](Examples/resized_Width.jpg)  
 
----
 
-## 📌 How It Works  
-✔️ Computes an **energy map** to detect the least important pixels.  
-✔️ Uses **dynamic programming** to find the optimal seam.  
-✔️ **Removes seams iteratively** until the target size is reached.  
-
----
-
-## 🚀 How to Use  
-
-### **1️⃣ Install Dependencies**  
-```bash
-pip install numpy pillow
