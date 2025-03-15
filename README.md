@@ -46,7 +46,7 @@ seams_visualization.save("seams.jpg")
 
 ## Example
 Original Image → Seam Visualization → Resized Image  
-![Original](examples/original.png) → ![Seams](examples/seams.jpg) → ![Resized](examples/resized.jpg)
+![Original](test3.png) → ![Seams](seams.jpg) → ![Resized](resized.jpg)
 
 ## How It Works
 1. **Compute Energy Map**: Uses gradients to determine pixel importance.  
@@ -61,4 +61,4 @@ Feel free to fork this repository and submit pull requests with improvements! �
 This project is open-source and available under the **MIT License**.
 
 ---
-**Happy Coding! 🎨🚀**
+
